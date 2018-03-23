@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>ControlPage.qml</file>
+        <file>ControlPageForm.ui.qml</file>
+        <file>DebugPage.qml</file>
+        <file>DebugPageForm.ui.qml</file>
+        <file>Connect.qml</file>
+        <file>ConnectForm.ui.qml</file>
+    </qresource>
+</RCC>
