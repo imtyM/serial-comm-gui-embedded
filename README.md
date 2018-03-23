@@ -1,1 +1,1 @@
-A GUI made in QT.
+A GUI to interact with an external fan made from first principles via serial comunication (ESP wifi module).
